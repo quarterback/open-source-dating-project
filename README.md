@@ -3,9 +3,12 @@
 This project hearkens back to the early ethos of the web, providing a template for a self-hosted dating profile page. It's a conceptual design project aimed at evoking the spirit of a web that championed personal ownership and self-expression.
 
 ## Concept
-Online dating (nee internet dating) is a once-quaint concept that like most modern things, have been ruined by jerks. While it's always been precarious to "put yourself out there," online dating gave regular people the chance to meet people in their city they might not otherwise meet. Thousands of people can cite meeting friends on message boards, random websites that have been long shuttered, and many hours spent interacting with people who'd simply never been possible to find through normal places and spaces. The OSDP takes the form of the old guestbook from original websites and flips it through the form of dating sites.
 
-Modern dating apps are a dystopian form of finding people and OSDP is a Carte de visite for a modern world.
+Online dating, once a quaint idea facilitated by the early internet, has, like many modern-day conveniences, been morphed into a less personal, commercialized endeavor. The charm of 'putting oneself out there' and the prospect of organic interactions with individuals from various walks of life has been overshadowed by the mechanical swipes on today's dating apps. The Open Source Dating Project (OSDP) seeks to rekindle that old-school spirit by drawing inspiration from the simplicity and personal touch of original website guestbooks, repurposing this concept for modern-day dating.
+
+In the early days of the internet, message boards, guestbooks, and small community websites were the portals through which many forged new friendships, found a sense of community, and often, explored romantic possibilities. These platforms were more than just spaces to drop messages; they were spaces where one could share a part of themselves, and find others with shared interests, all within a framework that encouraged genuine interaction.
+
+Fast forward to the present, and we find ourselves navigating through a dystopian landscape of dating apps, where the essence of individuality is often lost amidst the rush to match with the 'perfect' profile. The OSDP aims to break free from this mold, offering instead a Carte de visite for the digital age. This project is not about creating yet another dating platform, but about providing a template, a starting point for individuals to create their own dating profile page,
 
 ## How to Use
 Clone this repo. Take the template and put it on your website. Mine is static, so it'd just be a page on my site, but yours might require more customization. 
