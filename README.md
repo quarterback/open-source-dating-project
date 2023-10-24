@@ -22,10 +22,7 @@ Clone this repo. Take the template and put it on your website. Mine is static, s
 ### Customization
 Add and remove sections to the template as you wish, it's meant to reflect your personality and wishes. 
 
-## Template
-Explanation of the different sections of the template and what information to include in each.
-
-## Privacy and Safety## Privacy and Safety
+## Privacy and Safety
 
 In the spirit of self-hosted, personal web pages, this project encourages individual expression while also emphasizing the importance of privacy and safety. Here are some tips and best practices to keep in mind:
 
