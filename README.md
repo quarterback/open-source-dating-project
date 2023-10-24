@@ -1,5 +1,7 @@
 # Open Source Dating Profile Project
 
+[](/date1.png)
+
 The Open Source Dating Project (OSDP) functions as a speculative critical design piece that analyzes and comments on the nature of modern online dating environments. In an era where digital dating interactions are often profit-driven and impersonal, this conceptual art project evokes the simplistic, human essence of the early internet's vision for authentic connection. By imagining a template reminiscent of the classic personal website guestbook adapted for individual dating profiles, the OSDP prompts reflection on the stark contrast between the type of user-driven self-expression this suggests, and the cold, impersonal interfaces of contemporary commercial dating apps that employ algorithms. 
 
 Rather than aiming to initiate a real-world movement or revolutionize online dating, the OSDP serves as a thought-provoking conceptual critique, a conversation starter about the current state of digital romantic relationships. By presenting a hypothetical alternative approach, this speculative design piece highlights how modern dating apps prioritize commercial interests over meaningful human connection. 
