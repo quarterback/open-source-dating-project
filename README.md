@@ -1,6 +1,5 @@
 # Open Source Dating Profile Project
 
-![Dating](date1.png)
 
 N.B. The [Date Me Doc](https://dateme.directory/) project seems to capture the same essence as this and has wider adoption. I'd suggest checking it out. 
 
@@ -59,4 +58,6 @@ The Open Source Dating Project (OSDP) is released under the Creative Commons Zer
 You can find the full text of the license [here](https://creativecommons.org/publicdomain/zero/1.0/), which provides a clear explanation of the rights waived under CC0.
 
 By using this project, you acknowledge and agree to abide by the terms of the CC0 license.
+
+![Dating](date1.png)
 
